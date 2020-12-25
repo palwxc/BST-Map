@@ -12,7 +12,7 @@ Tests for this project can be seen through the console. Some lines which were co
 
 Running this program tests its ability to add Nodes to the BST, clear the BST, check the size of the BST, print the BST, and copy the BST. It also test the ability to find, erase, or count Nodes given a Key, as well as replace a Value given a Node Key.
 
-The BST is printed twice during the test. This can be difficult to visualize since the visualization is done via the console. As such, a diagram for the BST (the first time it is printed) is included below. The second time the tree is printed, it is cleared.
+The BST is printed twice during the test. This BST can be difficult for the user to visualize, since the visualization is done via the console. As such, a diagram for the BST (the first time it is printed) is included below. The second time the tree is printed, it is cleared and empty.
 ![image](./readme_assets/1.png)
 
 ## Built With
